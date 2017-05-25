@@ -5,4 +5,9 @@ package com.example.katarzyna.affective;
  */
 
 public class AppConstant {
+
+    static final String drawer_VideoGallery = "Video Gallery ";
+    static final String drawer_emotionPreview = "Emotion Preview";
+    static final String drawer_login= "Login";
+
 }

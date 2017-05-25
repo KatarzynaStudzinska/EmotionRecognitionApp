@@ -1,5 +1,17 @@
 <resources>
-    <string name="app_name">CameraDetectorDemo</string>
+    <string name="app_name">EmotionReco</string>
+
+    <!--drawer-->
+    <string name="drawer_videoGallery">Video Gallery</string>
+    <string name="drawer_emotionPreview">Emotion Preview</string>
+    <string name="drawer_login">Login</string>
+    <string name="drawer_news">News</string>
+
+    <!--videowatch_fragment-->
+    <string name="play_video">Play</string>
+    <string name="stop_video">Stop</string>
+
+
     <string name="action_settings">Settings</string>
     <string name="age_under_18">age: under 18</string>
     <string name="age_18_24">age: 18–24</string>
